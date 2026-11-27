@@ -2,55 +2,58 @@
 
 <img src="./assets/banner.svg" alt="Awesome Mathematical Reasoning and Chain-of-Thought AI Banner" width="100%">
 
-# Awesome Mathematical Reasoning & Chain-of-Thought AI
+# 🧠 Awesome Mathematical Reasoning & Chain-of-Thought AI 📐
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI/commits/main)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A curated index of state-of-the-art Mathematical Reasoning AI, Chain-of-Thought (CoT) LLMs, Automated Theorem Proving (ATP) systems, and Step-by-Step Computational Engines.**
+**A curated index of state-of-the-art Mathematical Reasoning AI, Chain-of-Thought (CoT) LLMs, Automated Theorem Proving (ATP) systems, and Step-by-Step Computational Engines.** 🚀
 
-[Explore SaaS Platforms](#saas-hosted-platforms) • [Explore Open-Source Tools](#open-source-github-projects) • [Sector Dynamics](#sector-overview--market-dynamics) • [Contribution Guidelines](#how-to-contribute)
+[Explore SaaS Platforms](#-saas--hosted-platforms) • [Explore Open-Source Tools](#-open-source-github-projects) • [Sector Dynamics](#-sector-overview--market-dynamics) • [Contribution Guidelines](#-how-to-contribute) • [Support](#-support)
 
 </div>
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Benchmarking Datasets & Proof Libraries](#benchmarking-datasets--proof-libraries)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [🔍 Overview](#-overview)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📚 Benchmarking Datasets & Proof Libraries](#-benchmarking-datasets--proof-libraries)
+- [🌟 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 ---
 
-## Overview
+## 🔍 Overview
 
 Mathematical reasoning represents the pinnacle benchmark for artificial general intelligence. Solving advanced mathematics demands abstract planning, logical inference, multi-step symbolic manipulation, and strict algorithmic verification. This repository curates both frontier **SaaS-hosted reasoning models** and auditable **open-source implementations**, spanning:
 
-- **Chain-of-Thought (CoT) & Test-Time Compute**: Reinforcement-learning-driven reasoning engines (e.g., OpenAI o1/o3, DeepSeek R1/Math) that allocate test-time compute to uncover verifiable proof trajectories.
-- **Symbolic & Computer Algebra Systems (CAS)**: Algorithmic engines (e.g., Wolfram Alpha, SymPy) capable of exact arithmetic, algebraic simplification, and calculus.
-- **Formal Theorem Proving (ATP/ITP)**: Interactive proof assistants and auto-formalizers (e.g., Lean 4, Rocq/Coq, Mathlib) ensuring 100% mathematically proven correctness.
-- **K-12 & Higher-Ed Solvers**: Computer vision and multimodal homework assistants (e.g., Photomath, Mathway, QANDA) delivering step-by-step educational explanations.
+- 🔗 **Chain-of-Thought (CoT) & Test-Time Compute**: Reinforcement-learning-driven reasoning engines (e.g., OpenAI o1/o3, DeepSeek R1/Math) that allocate test-time compute to uncover verifiable proof trajectories.
+- 🧮 **Symbolic & Computer Algebra Systems (CAS)**: Algorithmic engines (e.g., Wolfram Alpha, SymPy) capable of exact arithmetic, algebraic simplification, and calculus.
+- 📜 **Formal Theorem Proving (ATP/ITP)**: Interactive proof assistants and auto-formalizers (e.g., Lean 4, Rocq/Coq, Mathlib) ensuring 100% mathematically proven correctness.
+- 🎓 **K-12 & Higher-Ed Solvers**: Computer vision and multimodal homework assistants (e.g., Photomath, Mathway, QANDA) delivering step-by-step educational explanations.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
-The global AI in mathematics and education technology sector is estimated at **$5.88 Billion in 2025**, projected to surpass **$32.27 Billion by 2032** growing at a CAGR of ~27.5%, driven by the adoption of test-time compute LLMs, STEM learning platforms, and formal verification in quantitative finance and hardware verification.
+The global AI in mathematics and education technology sector is estimated at **$5.88 Billion in 2025**, projected to surpass **$32.27 Billion by 2032** growing at a CAGR of ~27.5%, driven by the adoption of test-time compute LLMs, STEM learning platforms, and formal verification in quantitative finance and hardware verification. 📈
 
-The sector exhibits **high concentration (winner-take-most dynamics) at the foundation layer**, where frontier hyperscalers (Microsoft/OpenAI, Google DeepMind, Anthropic) dominate raw cognitive reasoning and test-time compute infrastructure. Conversely, the **application and specialized verification layers remain moderately fragmented**, characterized by defensible symbolic engines (Wolfram Research), dedicated EdTech consumer apps (QANDA, Photomath/Google), and rapidly accelerating open-source research communities coalescing around formal verification ecosystems (Lean 4, Mathlib, DeepSeek-Math).
+The sector exhibits **high concentration (winner-take-most dynamics) at the foundation layer**, where frontier hyperscalers (Microsoft/OpenAI, Google DeepMind, Anthropic) dominate raw cognitive reasoning and test-time compute infrastructure. Conversely, the **application and specialized verification layers remain moderately fragmented**, characterized by defensible symbolic engines (Wolfram Research), dedicated EdTech consumer apps (QANDA, Photomath/Google), and rapidly accelerating open-source research communities coalescing around formal verification ecosystems (Lean 4, Mathlib, DeepSeek-Math). 🌐
 
 ---
 
-## SaaS / Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
-Below is a comparison of leading hosted mathematical reasoning engines, step-by-step solvers, and foundation models, sorted in descending order by parent company market capitalization / valuation.
+Below is a comparison of leading hosted mathematical reasoning engines, step-by-step solvers, and foundation models, sorted in descending order by parent company market capitalization / valuation. 🏆
 
 | Product / Platform | Company / Backer | Company Valuation / Market Cap | Key Math Capabilities | Starting Paid Tier Pricing | Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -67,9 +70,9 @@ Below is a comparison of leading hosted mathematical reasoning engines, step-by-
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Curated open-source projects, foundation models, formal verification assistants, and reasoning frameworks for self-hosting and reproducible mathematical AI. Ranked in descending order by GitHub stargazers.
+Curated open-source projects, foundation models, formal verification assistants, and reasoning frameworks for self-hosting and reproducible mathematical AI. Ranked in descending order by GitHub stargazers. ⭐
 
 | Project | GitHub Stars | Primary Domain / Focus | Key Features & Highlights |
 | :--- | :--- | :--- | :--- |
@@ -97,18 +100,25 @@ Curated open-source projects, foundation models, formal verification assistants,
 
 ---
 
-## Benchmarking Datasets & Proof Libraries
+## 📚 Benchmarking Datasets & Proof Libraries
 
-- **[NuminaMath](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT)** — 860k diverse mathematical problems with detailed chain-of-thought solutions, used to train AIMO-winning models.
-- **[MATH Dataset](https://github.com/hendrycks/math)** — 12,500 challenging competition mathematics problems with step-by-step LaTeX solutions.
-- **[AIME & AMC Benchmarks](https://artofproblemsolving.com/)** — American Invitational Mathematics Examination datasets serving as the gold standard for frontier test-time reasoning.
-- **[Lean-IMO-Bench / MiniF2F](https://github.com/openai/miniF2F)** — Formalized Olympiad mathematics benchmark designed for cross-verifying machine-generated formal proofs.
+- 📊 **[NuminaMath](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT)** — 860k diverse mathematical problems with detailed chain-of-thought solutions, used to train AIMO-winning models.
+- 📐 **[MATH Dataset](https://github.com/hendrycks/math)** — 12,500 challenging competition mathematics problems with step-by-step LaTeX solutions.
+- 🏅 **[AIME & AMC Benchmarks](https://artofproblemsolving.com/)** — American Invitational Mathematics Examination datasets serving as the gold standard for frontier test-time reasoning.
+- 🛡️ **[Lean-IMO-Bench / MiniF2F](https://github.com/openai/miniF2F)** — Formalized Olympiad mathematics benchmark designed for cross-verifying machine-generated formal proofs.
 
 ---
 
-## How to Contribute
+## 🌟 Star History
 
-We welcome contributions from researchers, educators, and software engineers!
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from researchers, educators, and software engineers! 💡
 
 1. **Fork** the repository to your own account.
 2. **Create a branch**: `git checkout -b feature/add-new-model`
@@ -118,7 +128,19 @@ We welcome contributions from researchers, educators, and software engineers!
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you so much for exploring and using this repository! If you find this curated list valuable for your research, studies, or engineering workflows, please consider:
+
+- ⭐ **Starring this repository** to help others discover it
+- 🍴 **Forking and sharing** it with fellow AI researchers, mathematicians, and developers
+- ☕ **Supporting ongoing curation & development**: You can buy me a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support and contributions keep this directory up-to-date and thriving! 🙏
+
+---
+
+## ⚠️ Disclaimer
 
 - This repository is a community-maintained index for research, educational, and benchmarking purposes.
 - All product names, logos, and brands are property of their respective owners. Company valuations and market capitalizations reflect publicly disclosed figures or market estimates and are subject to change.
