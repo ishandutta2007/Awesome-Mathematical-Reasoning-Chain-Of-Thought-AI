@@ -1,6 +1,6 @@
 # Awesome-Mathematical-Reasoning-Chain-Of-Thought-AI
 
-# Top Mathematical Reasoning & Chain-of-Thought AI Ecosystem
+## Top Mathematical Reasoning & Chain-of-Thought AI Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Step-by-Step Math Solving, Chain-of-Thought Reasoning & Automated Theorem Proving*  
